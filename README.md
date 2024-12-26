@@ -1,2 +1,2 @@
-# DynamoDB-Table-Manager
-A set of Python scripts for managing and manipulating DynamoDB tables.
+# DynamoDB-HighThroughput
+A Python project focused on optimizing high-throughput insert operations into DynamoDB tables for large-scale data processing.
